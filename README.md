@@ -4,6 +4,6 @@ This is the repository of the Anfängerpraktikum (Beginner's internship) of our 
 Contributors are:
 
 * Carla Fuchs
-* Christian Hobelsberger
+* [Christian Hobelsberger](https://github.com/christian-hobelsberger/)
 * Mattia Mohr
 * Max Lang
